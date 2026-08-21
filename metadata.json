@@ -1,0 +1,6 @@
+{
+  "name": "VeriDoc AcadChain - Instant Transcript & Migration Verification",
+  "description": "A decentralized academic records system issuing tamper-proof, cryptographically signed digital credentials (transcripts, degree & migration certificates) with instant multi-stakeholder verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
